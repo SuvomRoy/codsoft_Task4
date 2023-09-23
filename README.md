@@ -1,1 +1,1 @@
-# codsoft_Task2
+# I Completed WordCounter Problem of java programming. 
